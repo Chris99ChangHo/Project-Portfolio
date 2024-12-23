@@ -9,21 +9,21 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 ### 1. **Specialized Schools Performance Analysis**
 - **Description**: Conducted an analysis on performance trends of specialized schools to uncover meaningful insights.  
 - **Technologies**: Python, Pandas, Matplotlib  
-- **PDF Documentation**: [View Details](./1조_특성화중학교_데이터분석프로젝트.pdf)
+- **PDF Documentation**: [![PDF Thumbnail](./1조_특성화중학교_데이터분석프로젝트.pdf)
 
 ---
 
 ### 2. **Shared Umbrella Location Optimization**
 - **Description**: Developed a clustering model to optimize shared umbrella locations in urban areas.  
 - **Technologies**: Python, Scikit-learn  
-- **PDF Documentation**: [View Details](./3조_공유우산_데이터분석프로젝트.pdf)
+- **PDF Documentation**: [![PDF Thumbnail](./3조_공유우산_데이터분석프로젝트.pdf)
 
 ---
 
 ### 3. **Apartment Name Trends Analysis**
 - **Description**: Analyzed trends in apartment naming conventions using natural language processing techniques.  
 - **Technologies**: Python, NLTK, Pandas  
-- **PDF Documentation**: [View Details](./1조_아파트이름_데이터분석프로젝트.pdf)
+- **PDF Documentation**: [![PDF Thumbnail](./1조_아파트이름_데이터분석프로젝트.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 - **Description**: Designed and implemented a chatbot to provide mental health support through natural language processing.  
 - **Technologies**: Python, Flask, Dialogflow  
 - **GitHub Repository**: [View Code](https://github.com/soneunrak/swproject10)  
-- **PDF Documentation**: [View Details](./캡스톤디자인10팀_챗봇프로젝트.pdf)
+- **PDF Documentation**: [![PDF Thumbnail](./캡스톤디자인10팀_챗봇프로젝트.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 - **Description**: Developed a YOLO-based deep learning model to detect driver drowsiness with high accuracy.  
 - **Technologies**: Python, TensorFlow, OpenCV  
 - **GitHub Repository**: [View Code](https://github.com/signife/driver-drowsiness-detection)  
-- **PDF Documentation**: [View Details](./1조_ddd_딥러닝프로젝트.pdf)
+- **PDF Documentation**: [![PDF Thumbnail](./1조_ddd_딥러닝프로젝트.pdf)
 
 ---
 
@@ -57,7 +57,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 - **Description**: Built an AI-powered app that recommends complementary dishes based on user preferences and existing ingredients.  
 - **Technologies**: Python, Flutter, MariaDB  
 - **GitHub Repository**: [View Code](https://github.com/Chris99ChangHo/bapsim)  
-- **PDF Documentation**: [View Details](./THE_FOOD_POWER_발표자료.pdf)
+- **PDF Documentation**: [![PDF Thumbnail]((https://drive.google.com/file/d/1PyK5Zz35qj1D5HiohM3RCGrpi8_Teik9/view?usp=sharing))
 
 ---
 
