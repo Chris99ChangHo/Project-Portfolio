@@ -47,7 +47,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 
 ### 3. **Driver Drowsiness Detection**
 - **Description**: Developed a YOLO-based deep learning model to detect driver drowsiness with high accuracy.  
-- **Technologies**: Python, TensorFlow, OpenCV  
+- **Technologies**: Python, Pytorch, OpenCV  
 - **GitHub Repository**: [View Code](https://github.com/signife/driver-drowsiness-detection)  
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/1OQJ9tsxppuiFQxwar1Z8_AAndfIWrPBJ/view?usp=drive_link)
 
@@ -55,7 +55,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 
 ### 4. **AI-Powered Food Recommendation System**
 - **Description**: Built an AI-powered app that recommends complementary dishes based on user preferences and existing ingredients.  
-- **Technologies**: Python, Flutter, MariaDB  
+- **Technologies**: Python, Flask, Dart, Flutter, MariaDB, KakaoAPI  
 - **GitHub Repository**: [View Code](https://github.com/Chris99ChangHo/bapsim)  
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/1PyK5Zz35qj1D5HiohM3RCGrpi8_Teik9/view?usp=drive_link)
 
