@@ -6,22 +6,22 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 
 ## 📊 Data Analysis Projects
 
-### 1. **Specialized Schools Performance Analysis**
-- **Description**: Conducted an analysis on performance trends of specialized schools to uncover meaningful insights.  
+### 1. **Data Analysis-Based Activation Strategy for Specialized Schools Proposal**
+- **Description**: Proposed activation strategies for specialized schools based on data analysis to prevent dropouts.
 - **Technologies**: Python
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/1SxzoSeD8g3pyVqEmnKpA8h95oZ6ngU20/view?usp=drive_link)
 
 ---
 
-### 2. **Shared Umbrella Location Optimization**
-- **Description**: Developed a clustering model to optimize shared umbrella locations in urban areas.  
+### 2. **Data Analysis-Based Shared Umbrella Service Proposal**
+- **Description**: Proposed a shared umbrella service using convenience store platforms through data analysis.  
 - **Technologies**: Python 
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/10HGONT5rHDz-HydY4zBGWnZ1R4qLkjHw/view?usp=drive_link)
 
 ---
 
-### 3. **Apartment Name Trends Analysis**
-- **Description**: Analyzed trends in apartment naming conventions using natural language processing techniques.  
+### 3. **Data Analysis-Based Apartment Name and Price Study**
+- **Description**: Analyzed the relationship between apartment names and their market prices using data analysis.  
 - **Technologies**: Python
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/137CsTaW-96G4QqJcZHa0s6qZlEvsfIKX/view?usp=drive_link)
 
@@ -29,8 +29,8 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 
 ## 💻 Development Projects
 
-### 1. **Mental Health Chatbot**
-- **Description**: Designed and implemented a chatbot to provide mental health support through natural language processing.  
+### 1. **Virtual Persona Chatbot**
+- **Description**: Developed a virtual persona chatbot capable of interaction through voice or text.  
 - **Technologies**: Python, Flask, Dart, Flutter, OpenAPI  
 - **GitHub Repository**: [View Code](https://github.com/soneunrak/swproject10)  
 - **PDF Documentation**: [View Details](https://drive.google.com/file/d/17w-sE09VjvmIPIOYXrdznsgBnfoqwA0A/view?usp=drive_link)
@@ -53,7 +53,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 
 ---
 
-### 4. **AI-Powered Food Recommendation System**
+### 4. **AI-Powered Banchan Recommendation System: Bapsim**
 - **Description**: Built an AI-powered app that recommends complementary dishes based on user preferences and existing ingredients.  
 - **Technologies**: Python, Flask, Dart, Flutter, MariaDB, KakaoAPI  
 - **GitHub Repository**: [View Code](https://github.com/Chris99ChangHo/bapsim)  
