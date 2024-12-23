@@ -57,7 +57,7 @@ This portfolio contains projects grouped by type: **Data Analysis Projects** and
 - **Description**: Built an AI-powered app that recommends complementary dishes based on user preferences and existing ingredients.  
 - **Technologies**: Python, Flutter, MariaDB  
 - **GitHub Repository**: [View Code](https://github.com/Chris99ChangHo/bapsim)  
-- **PDF Documentation**: [View Details](./THE_FOOD_POWER_발표자료.pdf)
+- **PDF Documentation**: [View Details](https://drive.google.com/file/d/1PyK5Zz35qj1D5HiohM3RCGrpi8_Teik9/view?usp=drive_link)
 
 ---
 
